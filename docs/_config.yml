@@ -30,7 +30,7 @@ twitter_username: jsvedberg85
 github_username: jsvedberg85
 
 # Build settings
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
