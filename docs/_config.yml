@@ -30,7 +30,7 @@ twitter_username: jsvedberg85
 github_username: jsvedberg85
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
