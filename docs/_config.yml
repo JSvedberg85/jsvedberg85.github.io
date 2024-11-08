@@ -30,7 +30,7 @@ twitter_username: jsvedberg85
 github_username: jsvedberg85
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
